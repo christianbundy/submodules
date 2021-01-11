@@ -14,13 +14,13 @@ jobs:
 
       - name: Fetch
         run: |
-          curl "https://api.github.com/users/christianbundy/repos?per_page=100&page=1" | jq '.[].name' | xargs -L 1 -P $(nproc) -I {} git clone --depth=1 --filter=blob:none --no-checkout git://github.com/christianbundy/{}.git {} || true
+          curl "https://api.github.com/users/christianbundy/repos?per_page=100&page=1" | jq '.[].name' | grep -v '^submodules$' | xargs -L 1 -P $(nproc) -I {} git clone --depth=1 --filter=blob:none --no-checkout git://github.com/christianbundy/{}.git {} || true
 
-          curl "https://api.github.com/users/christianbundy/repos?per_page=100&page=2" | jq '.[].name' | xargs -L 1 -P $(nproc) -I {} git clone --depth=1 --filter=blob:none --no-checkout git://github.com/christianbundy/{}.git {} || true
+          curl "https://api.github.com/users/christianbundy/repos?per_page=100&page=2" | jq '.[].name' | grep -v '^submodules$' | xargs -L 1 -P $(nproc) -I {} git clone --depth=1 --filter=blob:none --no-checkout git://github.com/christianbundy/{}.git {} || true
 
-          curl "https://api.github.com/users/christianbundy/repos?per_page=100&page=3" | jq '.[].name' | xargs -L 1 -P $(nproc) -I {} git clone --depth=1 --filter=blob:none --no-checkout git://github.com/christianbundy/{}.git {} || true
+          curl "https://api.github.com/users/christianbundy/repos?per_page=100&page=3" | jq '.[].name' | grep -v '^submodules$' | xargs -L 1 -P $(nproc) -I {} git clone --depth=1 --filter=blob:none --no-checkout git://github.com/christianbundy/{}.git {} || true
 
-          curl "https://api.github.com/users/christianbundy/repos?per_page=100&page=4" | jq '.[].name' | xargs -L 1 -P $(nproc) -I {} git clone --depth=1 --filter=blob:none --no-checkout git://github.com/christianbundy/{}.git {} || true
+          curl "https://api.github.com/users/christianbundy/repos?per_page=100&page=4" | jq '.[].name' | grep -v '^submodules$' | xargs -L 1 -P $(nproc) -I {} git clone --depth=1 --filter=blob:none --no-checkout git://github.com/christianbundy/{}.git {} || true
 
       - name: Commit
         run: |

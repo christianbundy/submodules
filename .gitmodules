@@ -814,9 +814,6 @@
 [submodule "subjective-web"]
 	path = subjective-web
 	url = git://github.com/christianbundy/subjective-web.git
-[submodule "submodules"]
-	path = submodules
-	url = git://github.com/christianbundy/submodules.git
 [submodule "surfer"]
 	path = surfer
 	url = git://github.com/christianbundy/surfer.git
