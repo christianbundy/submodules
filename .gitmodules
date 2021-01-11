@@ -883,6 +883,3 @@
 [submodule "django-rest-hooks"]
 	path = django-rest-hooks
 	url = git://github.com/christianbundy/django-rest-hooks.git
-[submodule "submodules"]
-	path = submodules
-	url = git://github.com/christianbundy/submodules.git
