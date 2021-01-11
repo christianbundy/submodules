@@ -1,0 +1,885 @@
+[submodule "1-Two"]
+	path = 1-Two
+	url = git://github.com/christianbundy/1-Two.git
+[submodule "2048-AI"]
+	path = 2048-AI
+	url = git://github.com/christianbundy/2048-AI.git
+[submodule "2048.cpp"]
+	path = 2048.cpp
+	url = git://github.com/christianbundy/2048.cpp.git
+[submodule "42"]
+	path = 42
+	url = git://github.com/christianbundy/42.git
+[submodule "Bloks"]
+	path = Bloks
+	url = git://github.com/christianbundy/Bloks.git
+[submodule "Django-Celery-Rabbitmq-full-example"]
+	path = Django-Celery-Rabbitmq-full-example
+	url = git://github.com/christianbundy/Django-Celery-Rabbitmq-full-example.git
+[submodule "JedLang"]
+	path = JedLang
+	url = git://github.com/christianbundy/JedLang.git
+[submodule "List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words"]
+	path = List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
+	url = git://github.com/christianbundy/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words.git
+[submodule "Signal-Android"]
+	path = Signal-Android
+	url = git://github.com/christianbundy/Signal-Android.git
+[submodule "Signal-Desktop"]
+	path = Signal-Desktop
+	url = git://github.com/christianbundy/Signal-Desktop.git
+[submodule "SpaceVim"]
+	path = SpaceVim
+	url = git://github.com/christianbundy/SpaceVim.git
+[submodule "Squishy"]
+	path = Squishy
+	url = git://github.com/christianbundy/Squishy.git
+[submodule "Telescope"]
+	path = Telescope
+	url = git://github.com/christianbundy/Telescope.git
+[submodule "Windshaft"]
+	path = Windshaft
+	url = git://github.com/christianbundy/Windshaft.git
+[submodule "YoureStillHere"]
+	path = YoureStillHere
+	url = git://github.com/christianbundy/YoureStillHere.git
+[submodule "YoutubeDownloader"]
+	path = YoutubeDownloader
+	url = git://github.com/christianbundy/YoutubeDownloader.git
+[submodule "aaronson-oracle"]
+	path = aaronson-oracle
+	url = git://github.com/christianbundy/aaronson-oracle.git
+[submodule "accounts-entry"]
+	path = accounts-entry
+	url = git://github.com/christianbundy/accounts-entry.git
+[submodule "acidlisp"]
+	path = acidlisp
+	url = git://github.com/christianbundy/acidlisp.git
+[submodule "animal-namer"]
+	path = animal-namer
+	url = git://github.com/christianbundy/animal-namer.git
+[submodule "arthurblackdesign"]
+	path = arthurblackdesign
+	url = git://github.com/christianbundy/arthurblackdesign.git
+[submodule "atom-dark-flat-ui"]
+	path = atom-dark-flat-ui
+	url = git://github.com/christianbundy/atom-dark-flat-ui.git
+[submodule "atomic-file"]
+	path = atomic-file
+	url = git://github.com/christianbundy/atomic-file.git
+[submodule "availability.kemitchell.com"]
+	path = availability.kemitchell.com
+	url = git://github.com/christianbundy/availability.kemitchell.com.git
+[submodule "babynames"]
+	path = babynames
+	url = git://github.com/christianbundy/babynames.git
+[submodule "background-clip-text-polyfill"]
+	path = background-clip-text-polyfill
+	url = git://github.com/christianbundy/background-clip-text-polyfill.git
+[submodule "baseimage-docker"]
+	path = baseimage-docker
+	url = git://github.com/christianbundy/baseimage-docker.git
+[submodule "basicwardrobe.info"]
+	path = basicwardrobe.info
+	url = git://github.com/christianbundy/basicwardrobe.info.git
+[submodule "bcwc_pcie"]
+	path = bcwc_pcie
+	url = git://github.com/christianbundy/bcwc_pcie.git
+[submodule "best-freelance-contract"]
+	path = best-freelance-contract
+	url = git://github.com/christianbundy/best-freelance-contract.git
+[submodule "big"]
+	path = big
+	url = git://github.com/christianbundy/big.git
+[submodule "blockchain"]
+	path = blockchain
+	url = git://github.com/christianbundy/blockchain.git
+[submodule "bolide-chat"]
+	path = bolide-chat
+	url = git://github.com/christianbundy/bolide-chat.git
+[submodule "bombard"]
+	path = bombard
+	url = git://github.com/christianbundy/bombard.git
+[submodule "boot2docker"]
+	path = boot2docker
+	url = git://github.com/christianbundy/boot2docker.git
+[submodule "bootstrap3-less"]
+	path = bootstrap3-less
+	url = git://github.com/christianbundy/bootstrap3-less.git
+[submodule "bull"]
+	path = bull
+	url = git://github.com/christianbundy/bull.git
+[submodule "buzzer"]
+	path = buzzer
+	url = git://github.com/christianbundy/buzzer.git
+[submodule "cabal-desktop"]
+	path = cabal-desktop
+	url = git://github.com/christianbundy/cabal-desktop.git
+[submodule "catrc"]
+	path = catrc
+	url = git://github.com/christianbundy/catrc.git
+[submodule "chardet"]
+	path = chardet
+	url = git://github.com/christianbundy/chardet.git
+[submodule "chaser"]
+	path = chaser
+	url = git://github.com/christianbundy/chaser.git
+[submodule "check"]
+	path = check
+	url = git://github.com/christianbundy/check.git
+[submodule "chloride"]
+	path = chloride
+	url = git://github.com/christianbundy/chloride.git
+[submodule "choosealicense.com"]
+	path = choosealicense.com
+	url = git://github.com/christianbundy/choosealicense.com.git
+[submodule "christianbundy"]
+	path = christianbundy
+	url = git://github.com/christianbundy/christianbundy.git
+[submodule "christianbundy.com"]
+	path = christianbundy.com
+	url = git://github.com/christianbundy/christianbundy.com.git
+[submodule "christianbundy.github.io"]
+	path = christianbundy.github.io
+	url = git://github.com/christianbundy/christianbundy.github.io.git
+[submodule "cjdns"]
+	path = cjdns
+	url = git://github.com/christianbundy/cjdns.git
+[submodule "cli"]
+	path = cli
+	url = git://github.com/christianbundy/cli.git
+[submodule "coc-tsserver"]
+	path = coc-tsserver
+	url = git://github.com/christianbundy/coc-tsserver.git
+[submodule "coffee-script"]
+	path = coffee-script
+	url = git://github.com/christianbundy/coffee-script.git
+[submodule "common-good"]
+	path = common-good
+	url = git://github.com/christianbundy/common-good.git
+[submodule "create-react-app"]
+	path = create-react-app
+	url = git://github.com/christianbundy/create-react-app.git
+[submodule "creep"]
+	path = creep
+	url = git://github.com/christianbundy/creep.git
+[submodule "cspell"]
+	path = cspell
+	url = git://github.com/christianbundy/cspell.git
+[submodule "ctrlh.github.io"]
+	path = ctrlh.github.io
+	url = git://github.com/christianbundy/ctrlh.github.io.git
+[submodule "cuttlefish"]
+	path = cuttlefish
+	url = git://github.com/christianbundy/cuttlefish.git
+[submodule "deckofcards"]
+	path = deckofcards
+	url = git://github.com/christianbundy/deckofcards.git
+[submodule "degreee"]
+	path = degreee
+	url = git://github.com/christianbundy/degreee.git
+[submodule "deno_website2"]
+	path = deno_website2
+	url = git://github.com/christianbundy/deno_website2.git
+[submodule "derivative"]
+	path = derivative
+	url = git://github.com/christianbundy/derivative.git
+[submodule "designer_news_js_client"]
+	path = designer_news_js_client
+	url = git://github.com/christianbundy/designer_news_js_client.git
+[submodule "django"]
+	path = django
+	url = git://github.com/christianbundy/django.git
+[submodule "django-chroniker"]
+	path = django-chroniker
+	url = git://github.com/christianbundy/django-chroniker.git
+[submodule "django-nopassword"]
+	path = django-nopassword
+	url = git://github.com/christianbundy/django-nopassword.git
+[submodule "django-wkhtmltopdf"]
+	path = django-wkhtmltopdf
+	url = git://github.com/christianbundy/django-wkhtmltopdf.git
+[submodule "docker-compose-shim"]
+	path = docker-compose-shim
+	url = git://github.com/christianbundy/docker-compose-shim.git
+[submodule "docker-images"]
+	path = docker-images
+	url = git://github.com/christianbundy/docker-images.git
+[submodule "docker-py"]
+	path = docker-py
+	url = git://github.com/christianbundy/docker-py.git
+[submodule "docker-unity3d"]
+	path = docker-unity3d
+	url = git://github.com/christianbundy/docker-unity3d.git
+[submodule "docs"]
+	path = docs
+	url = git://github.com/christianbundy/docs.git
+[submodule "docs-1"]
+	path = docs-1
+	url = git://github.com/christianbundy/docs-1.git
+[submodule "docs-2"]
+	path = docs-2
+	url = git://github.com/christianbundy/docs-2.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = git://github.com/christianbundy/dotfiles.git
+[submodule "drewdevault.com"]
+	path = drewdevault.com
+	url = git://github.com/christianbundy/drewdevault.com.git
+[submodule "drupal"]
+	path = drupal
+	url = git://github.com/christianbundy/drupal.git
+[submodule "earthstar"]
+	path = earthstar
+	url = git://github.com/christianbundy/earthstar.git
+[submodule "easy"]
+	path = easy
+	url = git://github.com/christianbundy/easy.git
+[submodule "electron-quick-start"]
+	path = electron-quick-start
+	url = git://github.com/christianbundy/electron-quick-start.git
+[submodule "epidemic-broadcast-trees"]
+	path = epidemic-broadcast-trees
+	url = git://github.com/christianbundy/epidemic-broadcast-trees.git
+[submodule "erowid-research-project"]
+	path = erowid-research-project
+	url = git://github.com/christianbundy/erowid-research-project.git
+[submodule "es5-ext"]
+	path = es5-ext
+	url = git://github.com/christianbundy/es5-ext.git
+[submodule "eslint"]
+	path = eslint
+	url = git://github.com/christianbundy/eslint.git
+[submodule "euler"]
+	path = euler
+	url = git://github.com/christianbundy/euler.git
+[submodule "example-ssb"]
+	path = example-ssb
+	url = git://github.com/christianbundy/example-ssb.git
+[submodule "exports-polyfill"]
+	path = exports-polyfill
+	url = git://github.com/christianbundy/exports-polyfill.git
+[submodule "express"]
+	path = express
+	url = git://github.com/christianbundy/express.git
+[submodule "factory_girl_rails"]
+	path = factory_girl_rails
+	url = git://github.com/christianbundy/factory_girl_rails.git
+[submodule "fakenames"]
+	path = fakenames
+	url = git://github.com/christianbundy/fakenames.git
+[submodule "fifteenfamous.com"]
+	path = fifteenfamous.com
+	url = git://github.com/christianbundy/fifteenfamous.com.git
+[submodule "flumedb"]
+	path = flumedb
+	url = git://github.com/christianbundy/flumedb.git
+[submodule "flumelog-offset"]
+	path = flumelog-offset
+	url = git://github.com/christianbundy/flumelog-offset.git
+[submodule "flumeview-level"]
+	path = flumeview-level
+	url = git://github.com/christianbundy/flumeview-level.git
+[submodule "flumeview-search"]
+	path = flumeview-search
+	url = git://github.com/christianbundy/flumeview-search.git
+[submodule "fraction"]
+	path = fraction
+	url = git://github.com/christianbundy/fraction.git
+[submodule "fuelphp"]
+	path = fuelphp
+	url = git://github.com/christianbundy/fuelphp.git
+[submodule "fuzzysearch"]
+	path = fuzzysearch
+	url = git://github.com/christianbundy/fuzzysearch.git
+[submodule "generator-standard-readme"]
+	path = generator-standard-readme
+	url = git://github.com/christianbundy/generator-standard-readme.git
+[submodule "gif2mp4"]
+	path = gif2mp4
+	url = git://github.com/christianbundy/gif2mp4.git
+[submodule "gifdelay"]
+	path = gifdelay
+	url = git://github.com/christianbundy/gifdelay.git
+[submodule "gissues"]
+	path = gissues
+	url = git://github.com/christianbundy/gissues.git
+[submodule "git-extras"]
+	path = git-extras
+	url = git://github.com/christianbundy/git-extras.git
+[submodule "git-npm"]
+	path = git-npm
+	url = git://github.com/christianbundy/git-npm.git
+[submodule "git-praise"]
+	path = git-praise
+	url = git://github.com/christianbundy/git-praise.git
+[submodule "git-ssb"]
+	path = git-ssb
+	url = git://github.com/christianbundy/git-ssb.git
+[submodule "gitea"]
+	path = gitea
+	url = git://github.com/christianbundy/gitea.git
+[submodule "github-flow"]
+	path = github-flow
+	url = git://github.com/christianbundy/github-flow.git
+[submodule "gitlabhq"]
+	path = gitlabhq
+	url = git://github.com/christianbundy/gitlabhq.git
+[submodule "global-install"]
+	path = global-install
+	url = git://github.com/christianbundy/global-install.git
+[submodule "gloo-template"]
+	path = gloo-template
+	url = git://github.com/christianbundy/gloo-template.git
+[submodule "go-game-of-life"]
+	path = go-game-of-life
+	url = git://github.com/christianbundy/go-game-of-life.git
+[submodule "gogs"]
+	path = gogs
+	url = git://github.com/christianbundy/gogs.git
+[submodule "hangout-forever"]
+	path = hangout-forever
+	url = git://github.com/christianbundy/hangout-forever.git
+[submodule "haskell-gi"]
+	path = haskell-gi
+	url = git://github.com/christianbundy/haskell-gi.git
+[submodule "hello-world"]
+	path = hello-world
+	url = git://github.com/christianbundy/hello-world.git
+[submodule "hex-gif"]
+	path = hex-gif
+	url = git://github.com/christianbundy/hex-gif.git
+[submodule "holman-dotfiles"]
+	path = holman-dotfiles
+	url = git://github.com/christianbundy/holman-dotfiles.git
+[submodule "homebrew"]
+	path = homebrew
+	url = git://github.com/christianbundy/homebrew.git
+[submodule "homebrew-cask"]
+	path = homebrew-cask
+	url = git://github.com/christianbundy/homebrew-cask.git
+[submodule "homebrew-science"]
+	path = homebrew-science
+	url = git://github.com/christianbundy/homebrew-science.git
+[submodule "homebrew-tap"]
+	path = homebrew-tap
+	url = git://github.com/christianbundy/homebrew-tap.git
+[submodule "homesick"]
+	path = homesick
+	url = git://github.com/christianbundy/homesick.git
+[submodule "houdini"]
+	path = houdini
+	url = git://github.com/christianbundy/houdini.git
+[submodule "hourlyfortune"]
+	path = hourlyfortune
+	url = git://github.com/christianbundy/hourlyfortune.git
+[submodule "html-chat"]
+	path = html-chat
+	url = git://github.com/christianbundy/html-chat.git
+[submodule "html-element"]
+	path = html-element
+	url = git://github.com/christianbundy/html-element.git
+[submodule "http-alert"]
+	path = http-alert
+	url = git://github.com/christianbundy/http-alert.git
+[submodule "http-spa"]
+	path = http-spa
+	url = git://github.com/christianbundy/http-spa.git
+[submodule "http-ssb"]
+	path = http-ssb
+	url = git://github.com/christianbundy/http-ssb.git
+[submodule "hyperswarm-secret-handshake"]
+	path = hyperswarm-secret-handshake
+	url = git://github.com/christianbundy/hyperswarm-secret-handshake.git
+[submodule "ietf-rfc"]
+	path = ietf-rfc
+	url = git://github.com/christianbundy/ietf-rfc.git
+[submodule "indieopensource.com"]
+	path = indieopensource.com
+	url = git://github.com/christianbundy/indieopensource.com.git
+[submodule "intro.js"]
+	path = intro.js
+	url = git://github.com/christianbundy/intro.js.git
+[submodule "javascript"]
+	path = javascript
+	url = git://github.com/christianbundy/javascript.git
+[submodule "javascript-yellow"]
+	path = javascript-yellow
+	url = git://github.com/christianbundy/javascript-yellow.git
+[submodule "journal"]
+	path = journal
+	url = git://github.com/christianbundy/journal.git
+[submodule "jquery-notification"]
+	path = jquery-notification
+	url = git://github.com/christianbundy/jquery-notification.git
+[submodule "js-stellar-lib"]
+	path = js-stellar-lib
+	url = git://github.com/christianbundy/js-stellar-lib.git
+[submodule "jsonform"]
+	path = jsonform
+	url = git://github.com/christianbundy/jsonform.git
+[submodule "kill-meteor"]
+	path = kill-meteor
+	url = git://github.com/christianbundy/kill-meteor.git
+[submodule "last-day-of-last-month.js"]
+	path = last-day-of-last-month.js
+	url = git://github.com/christianbundy/last-day-of-last-month.js.git
+[submodule "level-test"]
+	path = level-test
+	url = git://github.com/christianbundy/level-test.git
+[submodule "leveldown"]
+	path = leveldown
+	url = git://github.com/christianbundy/leveldown.git
+[submodule "libsodium"]
+	path = libsodium
+	url = git://github.com/christianbundy/libsodium.git
+[submodule "libsodium.js"]
+	path = libsodium.js
+	url = git://github.com/christianbundy/libsodium.js.git
+[submodule "linguist"]
+	path = linguist
+	url = git://github.com/christianbundy/linguist.git
+[submodule "linux-samus"]
+	path = linux-samus
+	url = git://github.com/christianbundy/linux-samus.git
+[submodule "load"]
+	path = load
+	url = git://github.com/christianbundy/load.git
+[submodule "local-first"]
+	path = local-first
+	url = git://github.com/christianbundy/local-first.git
+[submodule "localhost-launcher"]
+	path = localhost-launcher
+	url = git://github.com/christianbundy/localhost-launcher.git
+[submodule "lsp-editor"]
+	path = lsp-editor
+	url = git://github.com/christianbundy/lsp-editor.git
+[submodule "macbot"]
+	path = macbot
+	url = git://github.com/christianbundy/macbot.git
+[submodule "marked"]
+	path = marked
+	url = git://github.com/christianbundy/marked.git
+[submodule "merge-example"]
+	path = merge-example
+	url = git://github.com/christianbundy/merge-example.git
+[submodule "meteor"]
+	path = meteor
+	url = git://github.com/christianbundy/meteor.git
+[submodule "meteor-autoform-file"]
+	path = meteor-autoform-file
+	url = git://github.com/christianbundy/meteor-autoform-file.git
+[submodule "meteor-boilerplate"]
+	path = meteor-boilerplate
+	url = git://github.com/christianbundy/meteor-boilerplate.git
+[submodule "meteor-bootstrap-3"]
+	path = meteor-bootstrap-3
+	url = git://github.com/christianbundy/meteor-bootstrap-3.git
+[submodule "meteor-es6"]
+	path = meteor-es6
+	url = git://github.com/christianbundy/meteor-es6.git
+[submodule "meteor-fast-render"]
+	path = meteor-fast-render
+	url = git://github.com/christianbundy/meteor-fast-render.git
+[submodule "meteor-fastclick"]
+	path = meteor-fastclick
+	url = git://github.com/christianbundy/meteor-fastclick.git
+[submodule "meteor-grasp"]
+	path = meteor-grasp
+	url = git://github.com/christianbundy/meteor-grasp.git
+[submodule "meteor-harmony"]
+	path = meteor-harmony
+	url = git://github.com/christianbundy/meteor-harmony.git
+[submodule "meteor-harmony-example"]
+	path = meteor-harmony-example
+	url = git://github.com/christianbundy/meteor-harmony-example.git
+[submodule "meteor-require"]
+	path = meteor-require
+	url = git://github.com/christianbundy/meteor-require.git
+[submodule "meteorite"]
+	path = meteorite
+	url = git://github.com/christianbundy/meteorite.git
+[submodule "metronome"]
+	path = metronome
+	url = git://github.com/christianbundy/metronome.git
+[submodule "micro-css"]
+	path = micro-css
+	url = git://github.com/christianbundy/micro-css.git
+[submodule "multiserver"]
+	path = multiserver
+	url = git://github.com/christianbundy/multiserver.git
+[submodule "multiserver-address.rs"]
+	path = multiserver-address.rs
+	url = git://github.com/christianbundy/multiserver-address.rs.git
+[submodule "muxrpc"]
+	path = muxrpc
+	url = git://github.com/christianbundy/muxrpc.git
+[submodule "mvd"]
+	path = mvd
+	url = git://github.com/christianbundy/mvd.git
+[submodule "nanonet"]
+	path = nanonet
+	url = git://github.com/christianbundy/nanonet.git
+[submodule "neobundle.vim"]
+	path = neobundle.vim
+	url = git://github.com/christianbundy/neobundle.vim.git
+[submodule "neural-net-node"]
+	path = neural-net-node
+	url = git://github.com/christianbundy/neural-net-node.git
+[submodule "next.js"]
+	path = next.js
+	url = git://github.com/christianbundy/next.js.git
+[submodule "noble-ed25519"]
+	path = noble-ed25519
+	url = git://github.com/christianbundy/noble-ed25519.git
+[submodule "node"]
+	path = node
+	url = git://github.com/christianbundy/node.git
+[submodule "node-game-of-life"]
+	path = node-game-of-life
+	url = git://github.com/christianbundy/node-game-of-life.git
+[submodule "node-geocodio"]
+	path = node-geocodio
+	url = git://github.com/christianbundy/node-geocodio.git
+[submodule "node-kill-meteor"]
+	path = node-kill-meteor
+	url = git://github.com/christianbundy/node-kill-meteor.git
+[submodule "node-ssb-validate-example"]
+	path = node-ssb-validate-example
+	url = git://github.com/christianbundy/node-ssb-validate-example.git
+[submodule "node-ssb-validate-example-2"]
+	path = node-ssb-validate-example-2
+	url = git://github.com/christianbundy/node-ssb-validate-example-2.git
+[submodule "node-tap"]
+	path = node-tap
+	url = git://github.com/christianbundy/node-tap.git
+[submodule "nom"]
+	path = nom
+	url = git://github.com/christianbundy/nom.git
+[submodule "non-private-ip"]
+	path = non-private-ip
+	url = git://github.com/christianbundy/non-private-ip.git
+[submodule "normalize-package-data"]
+	path = normalize-package-data
+	url = git://github.com/christianbundy/normalize-package-data.git
+[submodule "nwinkler-dotfiles"]
+	path = nwinkler-dotfiles
+	url = git://github.com/christianbundy/nwinkler-dotfiles.git
+[submodule "nyt-2020-election-scraper"]
+	path = nyt-2020-election-scraper
+	url = git://github.com/christianbundy/nyt-2020-election-scraper.git
+[submodule "oasis"]
+	path = oasis
+	url = git://github.com/christianbundy/oasis.git
+[submodule "oasis-desktop"]
+	path = oasis-desktop
+	url = git://github.com/christianbundy/oasis-desktop.git
+[submodule "obv"]
+	path = obv
+	url = git://github.com/christianbundy/obv.git
+[submodule "octotree"]
+	path = octotree
+	url = git://github.com/christianbundy/octotree.git
+[submodule "one-click-hugo-cms"]
+	path = one-click-hugo-cms
+	url = git://github.com/christianbundy/one-click-hugo-cms.git
+[submodule "openssl"]
+	path = openssl
+	url = git://github.com/christianbundy/openssl.git
+[submodule "patch-package"]
+	path = patch-package
+	url = git://github.com/christianbundy/patch-package.git
+[submodule "patchbay"]
+	path = patchbay
+	url = git://github.com/christianbundy/patchbay.git
+[submodule "patchbay-dark-crystal"]
+	path = patchbay-dark-crystal
+	url = git://github.com/christianbundy/patchbay-dark-crystal.git
+[submodule "patchfox"]
+	path = patchfox
+	url = git://github.com/christianbundy/patchfox.git
+[submodule "patchwork"]
+	path = patchwork
+	url = git://github.com/christianbundy/patchwork.git
+[submodule "peewee"]
+	path = peewee
+	url = git://github.com/christianbundy/peewee.git
+[submodule "phyml"]
+	path = phyml
+	url = git://github.com/christianbundy/phyml.git
+[submodule "plainlanguage.gov"]
+	path = plainlanguage.gov
+	url = git://github.com/christianbundy/plainlanguage.gov.git
+[submodule "postgres"]
+	path = postgres
+	url = git://github.com/christianbundy/postgres.git
+[submodule "presta"]
+	path = presta
+	url = git://github.com/christianbundy/presta.git
+[submodule "pretends-you-arent-fat"]
+	path = pretends-you-arent-fat
+	url = git://github.com/christianbundy/pretends-you-arent-fat.git
+[submodule "prezto"]
+	path = prezto
+	url = git://github.com/christianbundy/prezto.git
+[submodule "private-box"]
+	path = private-box
+	url = git://github.com/christianbundy/private-box.git
+[submodule "procs"]
+	path = procs
+	url = git://github.com/christianbundy/procs.git
+[submodule "progress"]
+	path = progress
+	url = git://github.com/christianbundy/progress.git
+[submodule "publicizeit"]
+	path = publicizeit
+	url = git://github.com/christianbundy/publicizeit.git
+[submodule "pull-jq"]
+	path = pull-jq
+	url = git://github.com/christianbundy/pull-jq.git
+[submodule "pull-level"]
+	path = pull-level
+	url = git://github.com/christianbundy/pull-level.git
+[submodule "pull-paramap"]
+	path = pull-paramap
+	url = git://github.com/christianbundy/pull-paramap.git
+[submodule "pull-ping"]
+	path = pull-ping
+	url = git://github.com/christianbundy/pull-ping.git
+[submodule "pull-stream"]
+	path = pull-stream
+	url = git://github.com/christianbundy/pull-stream.git
+[submodule "pulsarcms"]
+	path = pulsarcms
+	url = git://github.com/christianbundy/pulsarcms.git
+[submodule "py-convergent-encryption"]
+	path = py-convergent-encryption
+	url = git://github.com/christianbundy/py-convergent-encryption.git
+[submodule "pygments.rb"]
+	path = pygments.rb
+	url = git://github.com/christianbundy/pygments.rb.git
+[submodule "pyssb"]
+	path = pyssb
+	url = git://github.com/christianbundy/pyssb.git
+[submodule "python-ssb-example"]
+	path = python-ssb-example
+	url = git://github.com/christianbundy/python-ssb-example.git
+[submodule "rails"]
+	path = rails
+	url = git://github.com/christianbundy/rails.git
+[submodule "rails-assets"]
+	path = rails-assets
+	url = git://github.com/christianbundy/rails-assets.git
+[submodule "rcm"]
+	path = rcm
+	url = git://github.com/christianbundy/rcm.git
+[submodule "reddit"]
+	path = reddit
+	url = git://github.com/christianbundy/reddit.git
+[submodule "relations"]
+	path = relations
+	url = git://github.com/christianbundy/relations.git
+[submodule "require"]
+	path = require
+	url = git://github.com/christianbundy/require.git
+[submodule "reshell"]
+	path = reshell
+	url = git://github.com/christianbundy/reshell.git
+[submodule "rust-game-of-life"]
+	path = rust-game-of-life
+	url = git://github.com/christianbundy/rust-game-of-life.git
+[submodule "rxjs"]
+	path = rxjs
+	url = git://github.com/christianbundy/rxjs.git
+[submodule "scat"]
+	path = scat
+	url = git://github.com/christianbundy/scat.git
+[submodule "scrumLive-via-MeteorJS"]
+	path = scrumLive-via-MeteorJS
+	url = git://github.com/christianbundy/scrumLive-via-MeteorJS.git
+[submodule "scuttle-dark-crystal"]
+	path = scuttle-dark-crystal
+	url = git://github.com/christianbundy/scuttle-dark-crystal.git
+[submodule "scuttle-invite"]
+	path = scuttle-invite
+	url = git://github.com/christianbundy/scuttle-invite.git
+[submodule "scuttlebot"]
+	path = scuttlebot
+	url = git://github.com/christianbundy/scuttlebot.git
+[submodule "scuttlebot-rest-react"]
+	path = scuttlebot-rest-react
+	url = git://github.com/christianbundy/scuttlebot-rest-react.git
+[submodule "secret-stack"]
+	path = secret-stack
+	url = git://github.com/christianbundy/secret-stack.git
+[submodule "secure-scuttlebutt"]
+	path = secure-scuttlebutt
+	url = git://github.com/christianbundy/secure-scuttlebutt.git
+[submodule "sftp"]
+	path = sftp
+	url = git://github.com/christianbundy/sftp.git
+[submodule "sha512-wasm"]
+	path = sha512-wasm
+	url = git://github.com/christianbundy/sha512-wasm.git
+[submodule "shit"]
+	path = shit
+	url = git://github.com/christianbundy/shit.git
+[submodule "shopgab"]
+	path = shopgab
+	url = git://github.com/christianbundy/shopgab.git
+[submodule "sieve"]
+	path = sieve
+	url = git://github.com/christianbundy/sieve.git
+[submodule "smartdown"]
+	path = smartdown
+	url = git://github.com/christianbundy/smartdown.git
+[submodule "sodium-javascript"]
+	path = sodium-javascript
+	url = git://github.com/christianbundy/sodium-javascript.git
+[submodule "sodium-native"]
+	path = sodium-native
+	url = git://github.com/christianbundy/sodium-native.git
+[submodule "sodium-test"]
+	path = sodium-test
+	url = git://github.com/christianbundy/sodium-test.git
+[submodule "sodium-universal"]
+	path = sodium-universal
+	url = git://github.com/christianbundy/sodium-universal.git
+[submodule "soundnode-app"]
+	path = soundnode-app
+	url = git://github.com/christianbundy/soundnode-app.git
+[submodule "spacegrey-iterm"]
+	path = spacegrey-iterm
+	url = git://github.com/christianbundy/spacegrey-iterm.git
+[submodule "squirt"]
+	path = squirt
+	url = git://github.com/christianbundy/squirt.git
+[submodule "ssb-blobs"]
+	path = ssb-blobs
+	url = git://github.com/christianbundy/ssb-blobs.git
+[submodule "ssb-chess"]
+	path = ssb-chess
+	url = git://github.com/christianbundy/ssb-chess.git
+[submodule "ssb-conn"]
+	path = ssb-conn
+	url = git://github.com/christianbundy/ssb-conn.git
+[submodule "ssb-exporter"]
+	path = ssb-exporter
+	url = git://github.com/christianbundy/ssb-exporter.git
+[submodule "ssb-git-data"]
+	path = ssb-git-data
+	url = git://github.com/christianbundy/ssb-git-data.git
+[submodule "ssb-invite-schema"]
+	path = ssb-invite-schema
+	url = git://github.com/christianbundy/ssb-invite-schema.git
+[submodule "ssb-js"]
+	path = ssb-js
+	url = git://github.com/christianbundy/ssb-js.git
+[submodule "ssb-keys"]
+	path = ssb-keys
+	url = git://github.com/christianbundy/ssb-keys.git
+[submodule "ssb-ref"]
+	path = ssb-ref
+	url = git://github.com/christianbundy/ssb-ref.git
+[submodule "ssb-room"]
+	path = ssb-room
+	url = git://github.com/christianbundy/ssb-room.git
+[submodule "ssb-sqlite"]
+	path = ssb-sqlite
+	url = git://github.com/christianbundy/ssb-sqlite.git
+[submodule "ssb-sqlite-index-experiment"]
+	path = ssb-sqlite-index-experiment
+	url = git://github.com/christianbundy/ssb-sqlite-index-experiment.git
+[submodule "ssb-validate"]
+	path = ssb-validate
+	url = git://github.com/christianbundy/ssb-validate.git
+[submodule "ssb-webrtc"]
+	path = ssb-webrtc
+	url = git://github.com/christianbundy/ssb-webrtc.git
+[submodule "ssbc-meta"]
+	path = ssbc-meta
+	url = git://github.com/christianbundy/ssbc-meta.git
+[submodule "stale"]
+	path = stale
+	url = git://github.com/christianbundy/stale.git
+[submodule "stale-test"]
+	path = stale-test
+	url = git://github.com/christianbundy/stale-test.git
+[submodule "sticky"]
+	path = sticky
+	url = git://github.com/christianbundy/sticky.git
+[submodule "stoneknifeforth"]
+	path = stoneknifeforth
+	url = git://github.com/christianbundy/stoneknifeforth.git
+[submodule "subjective-web"]
+	path = subjective-web
+	url = git://github.com/christianbundy/subjective-web.git
+[submodule "submodules"]
+	path = submodules
+	url = git://github.com/christianbundy/submodules.git
+[submodule "surfer"]
+	path = surfer
+	url = git://github.com/christianbundy/surfer.git
+[submodule "termux-packages"]
+	path = termux-packages
+	url = git://github.com/christianbundy/termux-packages.git
+[submodule "test-flumeview-index"]
+	path = test-flumeview-index
+	url = git://github.com/christianbundy/test-flumeview-index.git
+[submodule "toolbox.css"]
+	path = toolbox.css
+	url = git://github.com/christianbundy/toolbox.css.git
+[submodule "topo"]
+	path = topo
+	url = git://github.com/christianbundy/topo.git
+[submodule "tri"]
+	path = tri
+	url = git://github.com/christianbundy/tri.git
+[submodule "tumbler"]
+	path = tumbler
+	url = git://github.com/christianbundy/tumbler.git
+[submodule "ui"]
+	path = ui
+	url = git://github.com/christianbundy/ui.git
+[submodule "vif"]
+	path = vif
+	url = git://github.com/christianbundy/vif.git
+[submodule "vif.io"]
+	path = vif.io
+	url = git://github.com/christianbundy/vif.io.git
+[submodule "vifio"]
+	path = vifio
+	url = git://github.com/christianbundy/vifio.git
+[submodule "volt"]
+	path = volt
+	url = git://github.com/christianbundy/volt.git
+[submodule "vscode-json-languageserver"]
+	path = vscode-json-languageserver
+	url = git://github.com/christianbundy/vscode-json-languageserver.git
+[submodule "web-to-ssb"]
+	path = web-to-ssb
+	url = git://github.com/christianbundy/web-to-ssb.git
+[submodule "web_file_tail"]
+	path = web_file_tail
+	url = git://github.com/christianbundy/web_file_tail.git
+[submodule "webhook-deployer"]
+	path = webhook-deployer
+	url = git://github.com/christianbundy/webhook-deployer.git
+[submodule "website_main"]
+	path = website_main
+	url = git://github.com/christianbundy/website_main.git
+[submodule "what_now"]
+	path = what_now
+	url = git://github.com/christianbundy/what_now.git
+[submodule "whatever"]
+	path = whatever
+	url = git://github.com/christianbundy/whatever.git
+[submodule "whatiscode"]
+	path = whatiscode
+	url = git://github.com/christianbundy/whatiscode.git
+[submodule "ws"]
+	path = ws
+	url = git://github.com/christianbundy/ws.git
+[submodule "wtf-npm"]
+	path = wtf-npm
+	url = git://github.com/christianbundy/wtf-npm.git
