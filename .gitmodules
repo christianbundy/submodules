@@ -883,3 +883,6 @@
 [submodule "django-rest-hooks"]
 	path = django-rest-hooks
 	url = git://github.com/christianbundy/django-rest-hooks.git
+[submodule "django-bug-remove-field"]
+	path = django-bug-remove-field
+	url = git://github.com/christianbundy/django-bug-remove-field.git
