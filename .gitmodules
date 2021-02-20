@@ -889,3 +889,6 @@
 [submodule "django-axes"]
 	path = django-axes
 	url = git://github.com/christianbundy/django-axes.git
+[submodule "qmk_firmware"]
+	path = qmk_firmware
+	url = git://github.com/christianbundy/qmk_firmware.git
