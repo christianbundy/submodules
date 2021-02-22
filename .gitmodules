@@ -892,3 +892,6 @@
 [submodule "qmk_firmware"]
 	path = qmk_firmware
 	url = git://github.com/christianbundy/qmk_firmware.git
+[submodule "python"]
+	path = python
+	url = git://github.com/christianbundy/python.git
