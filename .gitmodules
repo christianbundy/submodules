@@ -898,3 +898,6 @@
 [submodule "github-actions-docker-layer-caching-poc"]
 	path = github-actions-docker-layer-caching-poc
 	url = git://github.com/christianbundy/github-actions-docker-layer-caching-poc.git
+[submodule "buildkit"]
+	path = buildkit
+	url = git://github.com/christianbundy/buildkit.git
