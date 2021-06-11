@@ -901,3 +901,6 @@
 [submodule "buildkit"]
 	path = buildkit
 	url = git://github.com/christianbundy/buildkit.git
+[submodule "mirrors-prettier"]
+	path = mirrors-prettier
+	url = git://github.com/christianbundy/mirrors-prettier.git
