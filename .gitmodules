@@ -904,3 +904,6 @@
 [submodule "mirrors-prettier"]
 	path = mirrors-prettier
 	url = git://github.com/christianbundy/mirrors-prettier.git
+[submodule "docs-3"]
+	path = docs-3
+	url = git://github.com/christianbundy/docs-3.git
