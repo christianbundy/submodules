@@ -907,3 +907,6 @@
 [submodule "docs-3"]
 	path = docs-3
 	url = git://github.com/christianbundy/docs-3.git
+[submodule "django-migration-linter"]
+	path = django-migration-linter
+	url = git://github.com/christianbundy/django-migration-linter.git
