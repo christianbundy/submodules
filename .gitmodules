@@ -910,3 +910,6 @@
 [submodule "django-migration-linter"]
 	path = django-migration-linter
 	url = git://github.com/christianbundy/django-migration-linter.git
+[submodule "pydantic"]
+	path = pydantic
+	url = git://github.com/christianbundy/pydantic.git
