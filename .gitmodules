@@ -913,3 +913,6 @@
 [submodule "pydantic"]
 	path = pydantic
 	url = git://github.com/christianbundy/pydantic.git
+[submodule "python-crfsuite"]
+	path = python-crfsuite
+	url = git://github.com/christianbundy/python-crfsuite.git
