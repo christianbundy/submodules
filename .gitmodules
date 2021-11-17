@@ -919,3 +919,6 @@
 [submodule "aws-codebuild-docker-images"]
 	path = aws-codebuild-docker-images
 	url = git://github.com/christianbundy/aws-codebuild-docker-images.git
+[submodule "mypy"]
+	path = mypy
+	url = git://github.com/christianbundy/mypy.git
