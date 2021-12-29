@@ -922,3 +922,6 @@
 [submodule "mypy"]
 	path = mypy
 	url = git://github.com/christianbundy/mypy.git
+[submodule "abydos"]
+	path = abydos
+	url = git://github.com/christianbundy/abydos.git
