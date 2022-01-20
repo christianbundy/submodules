@@ -925,3 +925,6 @@
 [submodule "abydos"]
 	path = abydos
 	url = git://github.com/christianbundy/abydos.git
+[submodule "typeshed"]
+	path = typeshed
+	url = git://github.com/christianbundy/typeshed.git
