@@ -928,3 +928,6 @@
 [submodule "typeshed"]
 	path = typeshed
 	url = git://github.com/christianbundy/typeshed.git
+[submodule "pyenv"]
+	path = pyenv
+	url = git://github.com/christianbundy/pyenv.git
